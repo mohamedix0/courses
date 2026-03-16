@@ -20,7 +20,7 @@ int main()
 		n = ReadNumber("Enter a number: ");
 	}
 	cout << "Hello Word";
-	
+	cout << "It Work!";
 	
 
 	return 0;
